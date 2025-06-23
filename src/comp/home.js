@@ -11,6 +11,7 @@ const Home =()=>{
                 <h2>Apple watch</h2>
                 <p>30% off at your first ordder</p>
                 <Link to='/shop' className="link">Shope now</Link>
+                <div>test versel</div>
             </div>
         </div>
     </div>
